@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "学園ベイベー",
+  "base_artist": "ロクデナシ宇宙",
+  "createdAt": "2026-03-03T14:01:37.089371Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "学園ベイベー",
+      "artist": "ロクデナシ宇宙",
+      "has_synced": false,
+      "path": "select/pl_01_学園ベイベー_ロクデナシ宇宙.txt"
+    }
+  ]
+}
